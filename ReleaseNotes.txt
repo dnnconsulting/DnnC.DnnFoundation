@@ -1,0 +1,20 @@
+﻿<h3>DnnFoundation</h3>
+	DnnConsulting.nl <br/>
+	Geoff Barlow<br />
+	<a href="mailto:info@dnnconsulting.nl">info@DnnConsulting.nl</a><br />
+	<a href=http://www.dnnconsulting.nl>http://www.dnnconsulting.nl</a><br />
+<hr/>
+	<h3>About the DnnFoundation Skin</h3>
+
+	<h4>Version 01.00.01</h4><br />
+	Initial release of the skin using Zurb Foundation 5 and DNN 7.1	
+	<h5>Bug Fixes</h5>
+	<ul>
+			<li>Fixed various theme colors</li>
+			<li>Fixed the pane minim size</li>
+			<li>Fixed a problem with the scroll bar of adding modules</li>
+			<li>Fixed various other small formatting issues</li>
+			<li>Fixed the border round the NoTitle Conatiner</li>
+			<li>Added 2 new containers: Title_h5.ascx, Title_h6.ascx</li>
+	</ul>
+</div>
